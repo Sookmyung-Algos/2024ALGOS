@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-// BOJ 25511
+// BOJ 25511 
 
 #define FASTIO ios::sync_with_stdio(false); cin.tie(NULL);
 #define MAX 100001
